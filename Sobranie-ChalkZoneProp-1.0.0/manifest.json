@@ -1,0 +1,10 @@
+{
+    "name": "ChalkZoneProp",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/artyomkorchagin/Sobranie.ChalkZoneProp",
+    "description": "Placeable chalk zone prop",
+    "dependencies": [
+        "Sulayre-Lure-4.1.0",
+        "NotNet-GDWeave-2.0.13"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "Id": "Sobranie.ChalkZoneProp",
+  "PackPath": "ChalkZoneProp.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ]
+}
